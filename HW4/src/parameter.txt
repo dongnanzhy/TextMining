@@ -1,0 +1,6 @@
+algorithm:model_based
+K:5
+metric:dot-product
+method:mean
+pcc:false
+D:50

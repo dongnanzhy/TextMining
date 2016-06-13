@@ -1,0 +1,9 @@
+This program do not need to set any arguments when running in command line.
+The file path of the input data has been hard coded towards ./HW2_data
+
+When running, type following in command line:
+$java -jar HW2-Kmeans.jar
+
+For source java file, refer to “source java file” folder
+
+

@@ -1,0 +1,4 @@
+To run the program, just cd into src folder and type:
+$python main.py
+
+You can set number of features, whether use CTF or DF dictionary, whether use custom feature inside the program.

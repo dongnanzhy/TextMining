@@ -1,0 +1,8 @@
+algorithm:PTSPR
+weighting scheme:WS
+weight:0.54
+scale:1000
+alpha:0.4
+beta:0.4
+eps:1e-13
+iter:200
